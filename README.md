@@ -392,4 +392,7 @@ The project can be extended with:
 The Inventory Management System successfully automates inventory operations by providing efficient product management, stock monitoring, low-stock alerts, inventory valuation, and analytical dashboards. The use of the MERN stack ensures scalability, responsiveness, and modern web application performance, making the system suitable for small and medium-sized businesses.
 
 
-DEMO VIDEO:<video controls src="inventory management system.mp4" title="DEMO VIDEO-INVENTORY MANAGEMENT SYSTEM"></video>
+# DEMO VIDEO:
+
+🎥 [Watch Demo Video](https://github.com/user-attachments/assets/8db8384a-c1c7-477b-a9cf-92ad4a8197e0)
+
